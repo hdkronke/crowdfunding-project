@@ -1,10 +1,6 @@
-# Crowdfunding_ETL
-Project 2
+# Crowdfunding Analysis Project
+## Module 13
+### This project was done in collaboration with Bruce Ly
 
-Here is the repository for Project 2 by Bruce Ly and Hays Kronke!
+The field we chose to study was crowdfunding and how different factors play into a campaign's success or failure.
 
-"ETL_Mini_Project_BLy.ipynb" and "ETL_Mini_Project_HKronke.ipynb" pull data from the resources folder to create the four CSV files for the assignment (which are also stored in the resources folder). 
-
-"crowdfunding_db_schema.sql" is used to fulfill the last segment of the project, creating the crowdfunding database.
-
-Cheers!
