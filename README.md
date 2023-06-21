@@ -1,5 +1,5 @@
 # Crowdfunding Analysis Project
-## Module 13
+## Postgres SQL and JSON
 ### This project was a collaboration between Hays Kronke and Bruce Ly
 
 The field we chose to study was crowdfunding and how different factors play into a campaign's success or failure.
